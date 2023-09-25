@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px,10%;
+}
+.logo{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 27px;
+    cursor: default;
+}
